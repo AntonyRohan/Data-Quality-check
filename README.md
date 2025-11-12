@@ -62,5 +62,5 @@ This visualization clearly demonstrated the improvements achieved through the cl
 
 ✅ Conclusion
 
-This assessment successfully demonstrates an end-to-end data quality improvement workflow—combining the power of SQL for structure, Python for automation, and Tableau for visualization.
+This assessment successfully demonstrates an end-to-end data quality improvement workflow combining the power of SQL for structure, Python for automation, and Tableau for visualization.
 The result is a significantly improved, reliable, and analysis-ready dataset.
